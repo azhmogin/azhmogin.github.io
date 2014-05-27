@@ -1,0 +1,18 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      true
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            'Personal blog'
+tagline:          'Home page'
+description:      ''
+url:              http://azhmogino.github.io
+
+author:
+  name:           'Andrey Zhmoginov'
+
+paginate:         5
+
