@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About
+priority: 100
 ---
 
 ### Contact information
