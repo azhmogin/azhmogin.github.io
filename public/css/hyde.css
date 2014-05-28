@@ -55,13 +55,14 @@ html {
 
 .sidebar {
   text-align: center;
-  padding: 1rem 1rem;
+  padding: 0.2rem 1rem;
   color: rgba(255,255,255,.5);
   background-color: #202020;
 }
 @media (min-width: 48rem) {
   .sidebar {
     position: fixed;
+    padding: 2rem 1rem;
     top: 0rem;
     left: 0;
     bottom: 0;
@@ -122,7 +123,7 @@ a.sidebar-nav-item:focus {
  */
 
 .content {
-  padding-top:    4rem;
+  padding-top:    2rem;
   padding-bottom: 4rem;
 }
 
@@ -224,7 +225,7 @@ a.sidebar-nav-item:focus {
 
 /* Blue */
 .theme-base-0d .sidebar {
-  background-color: #6a9fb5;
+  background-color: #5a8fa5;
 }
 .theme-base-0d .content a,
 .theme-base-0d .related-posts li a:hover {
@@ -249,4 +250,26 @@ a.sidebar-nav-item:focus {
   color: #8f5536;
 }
 
+.post-content-truncate h1 {
+	font-size: 33.75px;
+	color: #333;
+}
 
+.post-content-truncate h2 {
+	font-size: 26.25px;
+	color: #333;
+}
+
+.post-content-truncate h3 {
+	font-size: 18.75px;
+	color: #333;
+}
+
+.post-content-truncate img {
+	max-width: 400px;
+}
+
+.highhover li:hover {
+  display: list-item;
+  background-color: #e8f0ff;
+}
