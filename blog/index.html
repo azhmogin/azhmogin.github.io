@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Blog
-priority: 3
 ---
 
 <div class="posts">
@@ -19,6 +18,8 @@ priority: 3
   {% if post.content contains "<!-- more -->" %}
     {{ post.content | split:"<!-- more -->" | first % }} 
     <a href="{{ post.url }}">Read more...</a>
+  {% else %}
+    {{ post.content }} 
   {% endif %}
 </div>
 

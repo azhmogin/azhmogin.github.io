@@ -9,13 +9,24 @@
       <li class="sidebar-nav-item{% if page.title == "Home" %} active{% endif %}">
         <a href="/">Home</a>
       </li>
+      <li class="sidebar-nav-item{% if page.path == "cv.md" %} active{% endif %}">
+        <a href="/cv/">Curriculum Vitae</a>
+      </li>
+      <li class="sidebar-nav-item{% if page.path == "publications.md" %} active{% endif %}">
+        <a href="/publications/">Publications</a>
+      </li>
+      <li class="sidebar-nav-item{% if page.title == "Blog" %} active{% endif %}">
+        <a href="/blog/">Blog</a>
+      </li>
+      <li class="sidebar-nav-item{% if page.path == "about.md" %} active{% endif %}">
+        <a href="/about/">About</a>
+      </li>
 
       {% comment %}
         The code below dynamically generates a sidebar nav of pages with
         `layout: page` in the front-matter. See readme for usage.
-      {% endcomment %}
 
-      {% assign pages_list = site.pages | sort:"priority" %}
+      {% assign pages_list = site.pages %}
       {% for node in pages_list %}
         {% if node.title != null %}
           {% if node.layout == "page" %}
@@ -25,6 +36,8 @@
           {% endif %}
         {% endif %}
       {% endfor %}
+
+      {% endcomment %}
 
       <!-- <li class="sidebar-nav-item"><a href="blog.html">Blog</a></li> -->
       <!-- <li class="sidebar-nav-item"><a href="{{ site.github.repo }}">GitHub project</a></li> --!>

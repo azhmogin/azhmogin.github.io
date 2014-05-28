@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Publications
-priority: 2
 ---
 
 1. P. Hamilton, A. Zhmoginov, F. Robicheaux, J. Fajans, J. Wurtele and H. Müller, *Antimatter Interferometry for Gravity Measurements*, **Phys. Rev. Lett. 112**, 121102 (2014). [[arXiv](http://arxiv.org/abs/1308.1079), [Journal](http://journals.aps.org/prl/abstract/10.1103/PhysRevLett.112.121102)]
