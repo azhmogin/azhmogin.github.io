@@ -5,7 +5,7 @@ title: About
 
 ### Contact information
 
-**E-Mail**: azhmogin AT berkeley.edu
+**E-Mail**: azhmogin@berkeley.edu
 
 Dr. Andrey Zhmoginov <br/>
 Department of Physics <br/>
