@@ -45,7 +45,6 @@ html {
   }
 }
 
-
 /*
  * Sidebar
  *
@@ -272,4 +271,25 @@ a.sidebar-nav-item:focus {
 .highhover li:hover {
   display: list-item;
   background-color: #e8f0ff;
+}
+
+table.blanktable {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  border: 0px;
+  width: auto;
+  /*white-space: nowrap;*/
+}
+
+.blanktable td, th {
+  min-width: 150px;
+  width: auto;
+  padding: 0rem 0rem;
+  padding-right: 2rem;
+  border: 0px; 
+}
+
+.blanktable tbody tr:nth-child(odd) td,
+tbody tr:nth-child(odd) th {
+  background-color: inherit;
 }
