@@ -1,19 +1,17 @@
 ---
 layout: title
 title: Andrey Zhmoginov
-subtitle: Postdoc Scholar at UC Berkeley (Physics Department)
+subtitle: Softwate Engineer, Google Research
 ---
 
 ### [Curriculum Vitae](/public/docs/cv.pdf)
 
 ## Contact information
 
-| **E-Mail**      | azhmogin@berkeley.edu    |
-| **Address**     | 447 Birge Hall           |
-|                 | Department of Physics    |
-|                 | University of California |
-|                 | Berkeley, CA 94720 (USA) |
-| **Google Talk** | azhmogin                 |
+| **E-Mail**      | azhmogin@gmail.com        |
+| **Address**     | 1600 Amphiteatre Parkway  |
+|                 | Mountain View, CA 94043   |
+| **Google Talk** | azhmogin                  |
 {: .blanktable}
 
 ## Education
@@ -27,7 +25,8 @@ subtitle: Postdoc Scholar at UC Berkeley (Physics Department)
 
 ## Employment
 
-| 2012--Now        | **Postdoctoral scholar** (Prof. Wurtele)                   |
+| 2015--Now        | **Software Engineer** at [Google Research](https://research.google.com/)  |
+| 2012--2015       | **Postdoctoral scholar** (Prof. Wurtele)                   |
 |                  | Department of Physics                                      |
 |                  | [University of California, Berkeley](http://www.berkeley.edu/index.html) (CA, USA) |
 | 2005--2011       | **Graduate Research Assistant** (Prof. Fisch)              |
@@ -41,4 +40,4 @@ subtitle: Postdoc Scholar at UC Berkeley (Physics Department)
 
 ## Research Interests
 
-Plasma physics; nonlinear dynamics and chaos; applied mathematics; atomic, molecular, and optical physics; computational physics; parallel computing (MPI and GPGPU); machine learning; computer vision
+Machine learning; computer vision; nonlinear dynamics and chaos; applied mathematics; plasma physics; atomic, molecular, and optical physics; computational physics; parallel computing (MPI and GPGPU)

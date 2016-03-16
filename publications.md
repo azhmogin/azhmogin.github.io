@@ -5,6 +5,8 @@ title: Publications
 
 ## Journal Articles
 
+1. M. Ahmadi, M. Baquero-Ruiz, W. Bertsche, E. Butler, A. Capra, C. Carruth, C. L. Cesar, M. Charlton, A. E. Charman, S. Eriksson, L. T. Evans, N. Evetts, J. Fajans, T. Friesen, M. C. Fujiwara, D. R. Gill, A. Gutierrez, J. S. Hangst, W. N. Hardy, M. E. Hayden, C. A. Isaac, A. Ishida, S. A. Jones, S. Jonsell, L. Kurchaninov, N. Madsen, D. Maxwell, J. T. K. McKenna, S. Menary, J. M. Michan, T. Momose, J. J. Munich, P. Nolan, K. Olchanski, A. Olin, A. Povilus, P. Pusa, C. Ø. Rasmussen, F. Robicheaux, R. L. Sacramento, M. Sameed, E. Sarid, D. M. Silveira, C. So, T. D. Tharp, R. I. Thompson, D. P. van der Werf, J. S. Wurtele, A. I. Zhmoginov, *An improved limit on the charge of antihydrogen from stochastic acceleration*, **[Nature 529](http://www.nature.com/nature/journal/v529/n7586/abs/nature16491.html)**, 373 (2016).
+1. M. Baquero-Ruiz, A. E. Charman, J. Fajans, A. Little, A. Povilus, F. Robicheaux, J. S. Wurtele and A. I. Zhmoginov, *Using stochastic acceleration to place experimental limits on the charge of antihydrogen*, **[New J. of Phys. 16](http://iopscience.iop.org/article/10.1088/1367-2630/16/8/083013/meta)**, 083013 (2014).
 1. C. Amole, M. D. Ashkezari, M. Baquero-Ruiz, W. Bertsche, E. Butler, A. Capra, C. L. Cesar, 
 M. Charlton, S. Eriksson, J. Fajans, T. Friesen, M. C. Fujiwara, D. R. Gill, A. Gutierrez, 
 J. S. Hangst, W. N. Hardy, M. E. Hayden, C. A. Isaac, S. Jonsell, L. Kurchaninov, A. Little, 
