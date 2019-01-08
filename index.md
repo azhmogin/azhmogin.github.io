@@ -40,4 +40,4 @@ subtitle: Softwate Engineer, Google Research
 
 ## Research Interests
 
-Machine learning; computer vision; nonlinear dynamics and chaos; applied mathematics; plasma physics; atomic, molecular, and optical physics; computational physics; parallel computing (MPI and GPGPU)
+Machine learning; computer vision; nonlinear dynamics and chaos; applied mathematics; plasma physics; atomic, molecular, and optical physics; computational physics; parallel computing.
