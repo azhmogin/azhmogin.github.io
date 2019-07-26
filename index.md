@@ -1,17 +1,16 @@
 ---
 layout: title
 title: Andrey Zhmoginov
-subtitle: Softwate Engineer, Google Research
+subtitle: Softwate Engineer, [Google AI](https://ai.google/)
 ---
 
 ### [Curriculum Vitae](/public/docs/cv.pdf)
 
 ## Contact information
 
-| **E-Mail**      | azhmogin@gmail.com        |
+| **E-Mail**      | azhmogin at gmail.com     |
 | **Address**     | 1600 Amphiteatre Parkway  |
 |                 | Mountain View, CA 94043   |
-| **Google Talk** | azhmogin                  |
 {: .blanktable}
 
 ## Education
@@ -25,7 +24,7 @@ subtitle: Softwate Engineer, Google Research
 
 ## Employment
 
-| 2015--Now        | **Software Engineer** at [Google Research](https://research.google.com/)  |
+| 2015--Now        | **Software Engineer** at [Google AI](https://ai.google/)   |
 | 2012--2015       | **Postdoctoral scholar** (Prof. Wurtele)                   |
 |                  | Department of Physics                                      |
 |                  | [University of California, Berkeley](http://www.berkeley.edu/index.html) (CA, USA) |
