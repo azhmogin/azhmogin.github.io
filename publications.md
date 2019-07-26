@@ -5,6 +5,7 @@ title: Publications
 
 ## Journal Articles
 
+1. A. Zhmoginov, I. Fischer, M. Sandler, *Information-Bottleneck Approach to Salient Region Discovery*, **[arXiv](https://arxiv.org/abs/1907.09578)** (ICML 2019. [Workshop on Self-Supervised Learning](https://sites.google.com/view/self-supervised-icml2019)).
 1. P. K. Mudrakarta, M. Sandler, A. Zhmoginov, A. Howard, *K For The Price Of 1: Parameter Efficient Multi-task And Transfer Learning*, **[arXiv](https://arxiv.org/abs/1810.10703)** (ICLR 2019).
 1. M. Sandler, A. Howard, M. Zhu, A. Zhmoginov, L.-C. Chen, *MobileNetV2: Inverted Residuals and Linear Bottlenecks*, **[CVPR 2018](http://openaccess.thecvf.com/content_cvpr_2018/html/Sandler_MobileNetV2_Inverted_Residuals_CVPR_2018_paper.html)**.
 1. S. Changpinyo, M. Sandler, A. Zhmoginov, *The Power of Sparsity in Convolutional Neural Networks*, **[arXiv](https://arxiv.org/abs/1702.06257)** (2017).
