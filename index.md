@@ -1,7 +1,7 @@
 ---
 layout: title
 title: Andrey Zhmoginov
-subtitle: Softwate Engineer, [Google AI](https://ai.google/)
+subtitle: Softwate Engineer, Google AI
 ---
 
 ### [Curriculum Vitae](/public/docs/cv.pdf)
