@@ -34,11 +34,13 @@
 html {
   font-family: "PT Sans", Helvetica, Arial, sans-serif;
 }
+
 @media (min-width: 48rem) {
   html {
     font-size: 16px;
   }
 }
+
 @media (min-width: 58rem) {
   html {
     font-size: 20px;
@@ -249,6 +251,19 @@ a.sidebar-nav-item:focus {
   color: #8f5536;
 }
 
+/* Dark Blue */
+.theme-base-0d-dark .sidebar {
+  background-color: #3a6f85;
+}
+.theme-base-0d-dark .content a,
+.theme-base-0d-dark .related-posts li a:hover {
+  color: #4a7f95;
+}
+
+.theme-rolling .content a,
+.theme-rolling .related-posts li a:hover {
+}
+
 .post-content-truncate h1 {
 	font-size: 33.75px;
 	color: #333;
@@ -293,3 +308,26 @@ table.blanktable {
 tbody tr:nth-child(odd) th {
   background-color: inherit;
 }
+
+.photo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.textphoto {
+    display: none;
+    clear: right;
+    float: right;
+    margin: .5em 0 .2em .7em;
+}
+
+@media (min-width: 38rem) {
+    .photo {
+	display: none;
+    }
+    .textphoto {
+	display: block;
+    }
+}
+

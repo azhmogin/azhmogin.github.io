@@ -1,42 +1,24 @@
 ---
-layout: title
+layout: personal-title
 title: Andrey Zhmoginov
-subtitle: Softwate Engineer, Google AI
+subtitle: Research Softwate Engineer, Google AI
 ---
 
-### [Curriculum Vitae](/public/docs/cv.pdf)
+<p/>
 
-## Contact information
+<div class="textphoto" style="max-width: 150px;"><center><img src="/public/photo.jpg" style="max-width: 100%; max-height: 100%"/></center></div>
 
-| **E-Mail**      | azhmogin at gmail.com     |
-| **Address**     | 1600 Amphiteatre Parkway  |
-|                 | Mountain View, CA 94043   |
-{: .blanktable}
+I am currently a Research Software Engineering working at [Google AI](https://ai.google/).
+My present research interests include: computer vision, generative models, compression of Deep Neural Networks, semi-supervised learning, infinitely-wide neural networks and information theory.
 
-## Education
+Prior to this, in between 2012 and 2015, I held a postdoc position at [UC Berkeley Physics Department](https://physics.berkeley.edu/) working in [Prof. Wurtele's group](http://raman.physics.berkeley.edu/).
+My research revolved around numerical studies of antihydrogen formation and trapping.
 
-| Ph.D (2011)   | **[Princeton University](http://www.princeton.edu/main/)**               |
-|               | Department of Astrophysical Sciences                                     |
-| B.S. (2004)   | **[Nizhny Novgorod State University (NNGU)](http://www.unn.ru/eng/)**    |
-|               | Advanced School of General and Applied Physics                           |
-|               | Nizhny Novgorod, Russia                                                  |
-{: .blanktable}
+I earned my PhD from Princeton University in 2011 under the supervision of [Prof. Nathaniel Fisch](https://www.pppl.gov/people/nathaniel-fisch) and [Dr. Ilya Dodin](https://theory.pppl.gov/people/profile.php?pid=21&n=Ilya-Dodin).
+There I worked on alpha-channeling in mirror machines, wave propagation in plasmas and laser-plasma interaction.
 
-## Employment
+* [Curriculum Vitae](cv)
+* [Publications](publications)
+    * [Machine Learning Publications](ml_publications)
+    * [Physics Publications](physics_publications)
 
-| 2015--Now        | **Software Engineer** at [Google AI](https://ai.google/)   |
-| 2012--2015       | **Postdoctoral scholar** (Prof. Wurtele)                   |
-|                  | Department of Physics                                      |
-|                  | [University of California, Berkeley](http://www.berkeley.edu/index.html) (CA, USA) |
-| 2005--2011       | **Graduate Research Assistant** (Prof. Fisch)              |
-|                  | [Princeton University](http://www.princeton.edu/main/), Princeton (NJ, USA) |
-| 2006--2007       | **Research Intern** (Dr. Eruhimov and Dr. Tuv)             |
-|                  | [Intel](http://www.intel.com/content/www/us/en/jobs/locations/russia/sites/nizhny.html), Nizhny Novgorod, Russia |
-| 2001--2003       | **Student Researcher** (Prof. Moshkov)                     |
-|                  | Joint Research Project of [Intel](http://www.intel.com/content/www/us/en/jobs/locations/russia/sites/nizhny.html) and [NNGU](http://www.unn.ru/eng/) |
-|                  | Nizhny Novgorod, Russia                                    |
-{: .blanktable}
-
-## Research Interests
-
-Machine learning; computer vision; nonlinear dynamics and chaos; applied mathematics; plasma physics; atomic, molecular, and optical physics; computational physics; parallel computing.
