@@ -14,11 +14,10 @@ My present research interests include: computer vision, generative models, compr
 Prior to this, in between 2012 and 2015, I held a postdoc position at [UC Berkeley Physics Department](https://physics.berkeley.edu/) working in [Prof. Wurtele's group](http://raman.physics.berkeley.edu/).
 My research revolved around numerical studies of antihydrogen formation and trapping.
 
-I earned my PhD from Princeton University in 2011 under the supervision of [Prof. Nathaniel Fisch](https://www.pppl.gov/people/nathaniel-fisch) and [Dr. Ilya Dodin](https://theory.pppl.gov/people/profile.php?pid=21&n=Ilya-Dodin).
+I earned my PhD from Princeton University in 2011 under the supervision of [Prof. Nathaniel Fisch](https://www.pppl.gov/people/nathaniel-fisch) and in close collaboration with [Dr. Ilya Dodin](https://theory.pppl.gov/people/profile.php?pid=21&n=Ilya-Dodin).
 There I worked on alpha-channeling in mirror machines, wave propagation in plasmas and laser-plasma interaction.
 
 * [Curriculum Vitae](cv)
 * [Publications](publications)
     * [Machine Learning Publications](ml_publications)
     * [Physics Publications](physics_publications)
-
