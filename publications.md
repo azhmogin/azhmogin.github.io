@@ -3,15 +3,26 @@ layout: page
 title: Full List of Publications
 ---
 
-## Journal Articles
+## Articles
 
+1. J. von Oswald, E. Niklasson, E. Randazzo, J. Sacramento, A. Mordvintsev, A. Zhmoginov, M. Vladymyrov, *Transformers learn in-context by gradient descent*, **[ICML 2023](https://proceedings.mlr.press/v202/von-oswald23a/von-oswald23a.pdf)**.
+1. M. Vladymyrov, A. Zhmoginov, M. Sandler, *Continual Few-Shot Learning Using HyperTransformers*, **[arXiv](https://arxiv.org/abs/2301.04584)** (2023).
+1. M. Sandler, A. Zhmoginov, M. Vladymyrov, N. Miller, *Training trajectories, mini-batch losses and the curious role of the learning rate*, **[arXiv](https://arxiv.org/abs/2301.02312)** (2023).
+1. A. Zhmoginov, M. Sandler, N. Miller, G. Kristiansen, M. Vladymyrov, *Decentralized Learning with Multi-Headed Distillation*, **[CVPR 2023](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhmoginov_Decentralized_Learning_With_Multi-Headed_Distillation_CVPR_2023_paper.pdf)**.
+1. A. Zhmoginov, M. Sandler, M. Vladymyrov, *Hypertransformer: Model generation for supervised and semi-supervised few-shot learning*, **[ICML 2022](https://proceedings.mlr.press/v162/zhmoginov22a/zhmoginov22a.pdf)**.
+1. M. Sandler, A. Zhmoginov, M. Vladymyrov, A. Jackson, *Fine-tuning image transformers using learnable memory*, **[CVPR 2022](https://openaccess.thecvf.com/content/CVPR2022/papers/Sandler_Fine-Tuning_Image_Transformers_Using_Learnable_Memory_CVPR_2022_paper.pdf)**.
+1. A. Zhmoginov, D. Bashkirova, M. Sandler, *Compositional models: Multi-task learning and knowledge transfer with modular networks*, **[arXiv](https://arxiv.org/abs/2107.10963)** (2021).
+1. M. Sandler, M. Vladymyrov, A. Zhmoginov, N. Miller, T. Madams, A. Jackson, B. A. Y Arcas, *Meta-learning bidirectional update rules*, **[ICML 2021](https://proceedings.mlr.press/v139/sandler21a/sandler21a.pdf)**.
+1. M. Zhang, C.-T. Chu, A. Zhmoginov, A. Howard, B. Jou, Y. Zhu, L. Zhang, R. Hwa, A. Kovashka, *Basisnet: Two-stage model synthesis for efficient inference*, **[CVPR 2021 Workshop](https://openaccess.thecvf.com/content/CVPR2021W/ECV/papers/Zhang_BasisNet_Two-Stage_Model_Synthesis_for_Efficient_Inference_CVPRW_2021_paper.pdf)**.
+1. L. Luo, M. Sandler, Z. Lin, A. Zhmoginov, A. Howard, *Large-scale generative data-free distillation*, **[arXiv](https://arxiv.org/abs/2012.05578)** (2020).
+1. M. Sandler, A. Zhmoginov, L. Luo, A. Mordvintsev, E. Randazzo, *Image segmentation via cellular automata*, **[arXiv](https://arxiv.org/abs/2008.04965)** (2020).
 1. M. Sandler, J. Baccash, A. Zhmoginov, A. Howard, *Non-discriminative data or weak model? On the relative importance of data and model resolution*, **[arXiv](https://arxiv.org/abs/1909.03205)** ([ICCV 2019](http://openaccess.thecvf.com/content_ICCVW_2019/html/RLQ/Sandler_Non-Discriminative_Data_or_Weak_Model_On_the_Relative_Importance_of_ICCVW_2019_paper.html)).
-1. A. Zhmoginov, I. Fischer, M. Sandler, *Information-Bottleneck Approach to Salient Region Discovery*, **[arXiv](https://arxiv.org/abs/1907.09578)** (ICML 2019. [Workshop on Self-Supervised Learning](https://sites.google.com/view/self-supervised-icml2019)).
+1. A. Zhmoginov, I. Fischer, M. Sandler, *Information-Bottleneck Approach to Salient Region Discovery*, **[arXiv](https://arxiv.org/abs/1907.09578)** (ICML 2019. [Workshop on Self-Supervised Learning](https://sites.google.com/view/self-supervised-icml2019)) (ECML PKDD 2020).
 1. P. K. Mudrakarta, M. Sandler, A. Zhmoginov, A. Howard, *K For The Price Of 1: Parameter Efficient Multi-task And Transfer Learning*, **[arXiv](https://arxiv.org/abs/1810.10703)** (ICLR 2019).
 1. M. Sandler, A. Howard, M. Zhu, A. Zhmoginov, L.-C. Chen, *MobileNetV2: Inverted Residuals and Linear Bottlenecks*, **[CVPR 2018](http://openaccess.thecvf.com/content_cvpr_2018/html/Sandler_MobileNetV2_Inverted_Residuals_CVPR_2018_paper.html)**.
 1. S. Changpinyo, M. Sandler, A. Zhmoginov, *The Power of Sparsity in Convolutional Neural Networks*, **[arXiv](https://arxiv.org/abs/1702.06257)** (2017).
 1. C. Chu, A. Zhmoginov, M. Sandler, *CycleGAN, a Master of Steganography*, **[arXiv](https://arxiv.org/abs/1712.02950)** (NIPS 2017 Workshop).
-1. I. Y. Dodin, A. I. Zhmoginov, D. E. Ruiz, *Variational principles for dissipative (sub)systems, with applications to the theory of linear dispersion and geometrical optics*, **[Phys. Letters A 381](https://www.sciencedirect.com/science/article/abs/pii/S0375960116313494)**, 1411 (2017).
+1. I. Y. Dodin, A. I. Zhmoginov, D. E. Ruiz, *Variational principles for dissipative (sub)systems, with applications to the theory of linear dispersion and geometrical optics*, **[Phys. Letters A 381](https://www.sciencedirect.com/science/article/abs/pii/S0375960116313494)**, 1411 (2017) [[arXiv](https://arxiv.org/pdf/1610.05668.pdf)].
 1. A. Zhmoginov, M. Sandler, *Inverting face embeddings with convolutional neural networks*, **[arXiv](https://arxiv.org/abs/1606.04189)** (2016).
 1. M. Ahmadi, M. Baquero-Ruiz, W. Bertsche, E. Butler, A. Capra, C. Carruth, C. L. Cesar, M. Charlton, A. E. Charman, S. Eriksson, L. T. Evans, N. Evetts, J. Fajans, T. Friesen, M. C. Fujiwara, D. R. Gill, A. Gutierrez, J. S. Hangst, W. N. Hardy, M. E. Hayden, C. A. Isaac, A. Ishida, S. A. Jones, S. Jonsell, L. Kurchaninov, N. Madsen, D. Maxwell, J. T. K. McKenna, S. Menary, J. M. Michan, T. Momose, J. J. Munich, P. Nolan, K. Olchanski, A. Olin, A. Povilus, P. Pusa, C. Ø. Rasmussen, F. Robicheaux, R. L. Sacramento, M. Sameed, E. Sarid, D. M. Silveira, C. So, T. D. Tharp, R. I. Thompson, D. P. van der Werf, J. S. Wurtele, A. I. Zhmoginov, *An improved limit on the charge of antihydrogen from stochastic acceleration*, **[Nature 529](http://www.nature.com/nature/journal/v529/n7586/abs/nature16491.html)**, 373 (2016).
 1. M. Baquero-Ruiz, A. E. Charman, J. Fajans, A. Little, A. Povilus, F. Robicheaux, J. S. Wurtele and A. I. Zhmoginov, *Using stochastic acceleration to place experimental limits on the charge of antihydrogen*, **[New J. of Phys. 16](http://iopscience.iop.org/article/10.1088/1367-2630/16/8/083013/meta)**, 083013 (2014).
@@ -37,7 +48,7 @@ and A. E. Charman, *An experimental limit on the charge of antihydrogen*, **[Nat
 1. I. Y. Dodin, A. I. Zhmoginov, and N. J. Fisch, *Manley-Rowe Relations for an Arbitrary Discrete System*, **[Phys. Lett. A 372](http://www.sciencedirect.com/science/article/pii/S0375960108012085)**, 6094 (2008). [[Fulltext](http://w3.pppl.gov/~fisch/fischpapers/2008/Dodin.manley-rowe.pdf)]
 1. A. I. Zhmoginov and N. J. Fisch, *Flux Control in Networks of Diffusion Paths*, **[Phys. Lett. A](http://www.sciencedirect.com/science/article/pii/S0375960108009699)**, 372, 5534 (2008). [[Fulltext](http://w3.pppl.gov/~fisch/fischpapers/2008/Zhmoginov_PLA08.pdf)]
 1. A. I. Zhmoginov and N. J. Fisch, *Simulation of Alpha-Channeling in Mirror Machines*, **[Phys. Plasmas 15](http://scitation.aip.org/content/aip/journal/pop/15/4/10.1063/1.2903900?showFTTab=true&containerItemId=content/aip/journal/pop)**, 042506 (2008). [[Fulltext](http://w3.pppl.gov/~fisch/fischpapers/2008/Zhmoginov_POP08.pdf)]
-1. A. I. Zhmoginov and G. M. Fraiman, *Generation of Harmonics of Intense Laser Radiation in a Transparent Collisionless Plasma*, **[J. Exp. Theor. Phys. 100](http://link.springer.com/article/10.1134%2F1.1947313)**, 895 (2005). [Fulltext]
+1. A. I. Zhmoginov and G. M. Fraiman, *Generation of Harmonics of Intense Laser Radiation in a Transparent Collisionless Plasma*, **[J. Exp. Theor. Phys. 100](http://link.springer.com/article/10.1134%2F1.1947313)**, 895 (2005). [[Fulltext](http://jetp.ras.ru/cgi-bin/dn/r_127_1017.pdf)]
 {: .highhover}
 
 ## Thesis

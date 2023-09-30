@@ -27,8 +27,8 @@ subtitle: Curriculum Vitae
 
 ## Employment
 
-| 2015--Now        | **Software Engineer** at [Google AI](https://ai.google/)   |
-| 2012--2015       | **Postdoctoral scholar** (Prof. Wurtele)                   |
+| 2015--Now        | **Research Software Engineer** and **Research Scientist** at [Google Research](https://research.google/)   |
+| 2012--2015       | **Postdoctoral Scholar** (Prof. Wurtele)                   |
 |                  | Department of Physics                                      |
 |                  | [University of California, Berkeley](http://www.berkeley.edu/index.html) (CA, USA) |
 | 2005--2011       | **Graduate Research Assistant** (Prof. Fisch)              |
