@@ -27,7 +27,8 @@ subtitle: Curriculum Vitae
 
 ## Employment
 
-| 2015--Now        | **Research Software Engineer** and **Research Scientist** at [Google Research](https://research.google/)   |
+| 2024--Present    | **Research Scientist** at [Google DeepMind](https://deepmind.google/)   |
+| 2015--2024       | **Research Software Engineer** and **Research Scientist** at [Google Research](https://research.google/)   |
 | 2012--2015       | **Postdoctoral Scholar** (Prof. Wurtele)                   |
 |                  | Department of Physics                                      |
 |                  | [University of California, Berkeley](http://www.berkeley.edu/index.html) (CA, USA) |
