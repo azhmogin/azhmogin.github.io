@@ -5,6 +5,9 @@ title: Full List of Publications
 
 ## Articles
 
+1. A. Zhmoginov, J. Lee, M. Vladymyrov, M. Sandler, *Learning Fast and Slow: Representations for In-Context Weight Modulation* ([1st ICML Workshop on In-Context Learning](https://iclworkshop.github.io/), 2024) [[Page](/fast_slow_pub_page)].
+1. A. Zhmoginov, J. Lee, M. Sandler, *Projectable Models: One-Shot Generation of Small Specialized Transformers from Large Ones* ([2nd ICML Workshop on Efficient Systems for Foundation Models](https://es-fomo.com/), 2024) [[Page](/projectable_pub_page)].
+1. M. Lazarow, E. Kur, A. Zhmoginov, J. Fajans, J. Wurtele, *A kinetic model for pure electron plasma compression via the rotating wall technique*, **[J. of Plasma Physics 89](https://www.cambridge.org/core/journals/journal-of-plasma-physics/article/kinetic-model-for-pure-electron-plasma-compression-via-the-rotating-wall-technique/8EDF4126414F304627AF85A6C58F9552)**, 935890404 (2023). [[Fulltext](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/8EDF4126414F304627AF85A6C58F9552/S002237782300082Xa.pdf/a-kinetic-model-for-pure-electron-plasma-compression-via-the-rotating-wall-technique.pdf)]
 1. J. von Oswald, E. Niklasson, E. Randazzo, J. Sacramento, A. Mordvintsev, A. Zhmoginov, M. Vladymyrov, *Transformers learn in-context by gradient descent*, **[ICML 2023](https://proceedings.mlr.press/v202/von-oswald23a/von-oswald23a.pdf)**.
 1. M. Vladymyrov, A. Zhmoginov, M. Sandler, *Continual Few-Shot Learning Using HyperTransformers*, **[arXiv](https://arxiv.org/abs/2301.04584)** (2023).
 1. M. Sandler, A. Zhmoginov, M. Vladymyrov, N. Miller, *Training trajectories, mini-batch losses and the curious role of the learning rate*, **[arXiv](https://arxiv.org/abs/2301.02312)** (2023).
